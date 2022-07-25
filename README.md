@@ -26,5 +26,5 @@ working in both the front and back end. This project opened my eyes to many new 
 and allowed me to practice performing machine learning and AI techniques.
 
 Licence:
-
+GNU General Public License. Please see LICENCE.MD for more info
 
