@@ -1,4 +1,4 @@
-# CP468
+# CP468: Heart Disesase Predictor
 CP48 Final Course Assignment
 The concern for heart disease is growing, and with that the goal of this project is to determine accurate predictors of an individuals chance of being diagnosed with heart disease.
 The dataset being used consists of a variety of different health conditions and habits an individual has such as alochol consumption, BMI and kidney disease.
